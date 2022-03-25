@@ -1,0 +1,136 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  /* font-family: "Source Sans Pro", sans-serif; */
+  overflow-x: hidden;
+}
+.remember-password {
+  border: 2px solid rgba(41, 71, 179);
+}
+.bluebg1 {
+  background-color: #2947b3;
+}
+.bluebg2 {
+  background-color: #3350b6;
+}
+.bluecol1 {
+  color: #2947b3;
+}
+.bg-image-1 {
+  /* background-image: url("./images/Rectangle\ 18.png"); */
+  background: linear-gradient(rgba(71, 71, 71, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./images/Rectangle\ 18.png");
+  background-position: center;
+  background-size: cover;
+  /* background-size: contain; */
+  background-repeat: no-repeat;
+}
+.bg-image-s {
+  /* background-image: url("./images/Rectangle\ 18.png"); */
+  background: linear-gradient(rgba(71, 71, 71, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./images/Rectangle\ 19.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.bg-image-2 {
+  /* background-image: url("./images/Rectangle\ 18.png"); */
+  background: linear-gradient(rgba(71, 71, 71, 0.5), rgba(71, 71, 71, 0.5)),
+    url("./images/webdev.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.bg-image-3 {
+  /* background-image: url("./images/Rectangle\ 18.png"); */
+  background: linear-gradient(rgba(71, 71, 71, 0.5), rgba(71, 71, 71, 0.5)),
+    url("./images/mobdev.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.bg-image-4 {
+  /* background-image: url("./images/Rectangle\ 18.png"); */
+  background: linear-gradient(rgba(71, 71, 71, 0.5), rgba(71, 71, 71, 0.5)),
+    url("./images/gradez.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.about-bg {
+  /* background-image: url("./images/Rectangle\ 18.png"); */
+  background: url("./images/about-bg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.about-2u {
+  /* background-image: url("./images/Rectangle\ 18.png"); */
+  background: url("./images/about-2u.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.about-1b {
+  /* background-image: url("./images/Rectangle\ 18.png"); */
+  background: url("./images/about-1b.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.products1 {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./images/products1.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.circlelg {
+  background: rgba(0, 74, 173, 0.3);
+}
+.circlesm {
+  background: #004aad;
+}
+.pd-bg {
+  background: url("./images/Lapop2.png");
+}
+.bg-image-ui-ux {
+  /* background-image: url("./images/Rectangle\ 18.png"); */
+  background: linear-gradient(rgba(71, 71, 71, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./images/uxui\ image.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.bg-image-cw {
+  /* background-image: url("./images/Rectangle\ 18.png"); */
+  background: linear-gradient(rgba(71, 71, 71, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./images/content\ writing.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.bg-image-wd {
+  /* background-image: url("./images/Rectangle\ 18.png"); */
+  background: linear-gradient(rgba(71, 71, 71, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./images/web\ delopment\ 1.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.bg-image-ma {
+  /* background-image: url("./images/Rectangle\ 18.png"); */
+  background: linear-gradient(rgba(71, 71, 71, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./images/mobile\ app\ 2.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.bg-image-ts {
+  /* background-image: url("./images/Rectangle\ 18.png"); */
+  background: linear-gradient(rgba(71, 71, 71, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./images/IT\ support.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.bg-image-pr {
+  /* background-image: url("./images/Rectangle\ 18.png"); */
+  background: linear-gradient(rgba(71, 71, 71, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./images/project\ research.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
